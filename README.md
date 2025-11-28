@@ -28,6 +28,11 @@ Usage
 # Run the toolkit
 python3 main.py
 
+*OUTPUT* 
+
+<img width="957" height="545" alt="Image" src="https://github.com/user-attachments/assets/9d9e0c5e-b23a-48ab-880b-458896b1c505" />
+
+
 Security & Legal Disclaimer
 This toolkit is for educational and authorized penetration testing only.
 Never use it on systems you do not own or have explicit permission to test — doing so may be illegal.
