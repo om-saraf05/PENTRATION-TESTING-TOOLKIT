@@ -10,19 +10,22 @@
 
 *DURATION* : 4 WEEKS 
 
+*MENTOR*: NEELA SANTOSH
+
+
+
 #Project Structure
 
+## Project Structure
 pentest_toolkit/
-│
-├── main.py                # Entry point
+├── main.py
 ├── modules/
 │   ├── __init__.py
-│   ├── port_scanner.py    # TCP port scanner
-│   ├── brute_forcer.py    # Simple password brute-forcer (dictionary-based)
-│
-└── wordlists/
-    └── passwords.txt      # Sample password list
-
+│   ├── port_scanner.py
+│   ├── brute_forcer.py
+│   └── wordlists/
+│       └── passwords.txt
+└── README.md
 Usage
 
 # Run the toolkit
